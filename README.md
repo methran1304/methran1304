@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Methran Gunasekaran</h1>
-<h1 align="center">🎓 MSc Advanced Computer Science, University of Liverpool</h1>
+<h2 align="center">🎓 MSc Advanced Computer Science, University of Liverpool</h2>
 
 💻 Full-Stack Developer | Backend Enthusiast
 📍 Based in Liverpool
