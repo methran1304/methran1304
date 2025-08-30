@@ -2,7 +2,7 @@
 <h2 align="center">💻 Full-Stack Developer | Backend Enthusiast</h2>
 <h2 align="center">🎓 MSc Advanced Computer Science, University of Liverpool</h2>
 
-<h3 align="center">I’m a full-stack developer based in United Kingdom. I like working across the stack, from building clean and interactive frontends to setting up solid backend systems.</h3>
+<h3 align="center">I’m a full-stack developer based in the UK. I like working across the stack, from building clean and interactive frontends to setting up solid backend systems.</h3>
 
 - 🔭 I’m currently working on [verbatim](https://www.verbatim.pro/)
 
