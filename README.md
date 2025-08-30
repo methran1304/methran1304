@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [LINK](LINK)
 
-- ⚡ Fun fact **I can type faster than I can text!**
+- ⚡ Fun fact **I can type a lot faster than I can text!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
