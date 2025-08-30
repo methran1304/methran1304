@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Methran Gunasekaran</h1>
+<h1 align="center">💻 Full-Stack Developer | Backend Enthusiast</h1>
 <h2 align="center">🎓 MSc Advanced Computer Science, University of Liverpool</h2>
+<h2 align="center">📍 Based in Liverpool</h2>
 
-💻 Full-Stack Developer | Backend Enthusiast
-📍 Based in Liverpool
-
-<h3 align="center">I’m a full-stack developer from Liverpool, UK. I like working across the stack, from building clean and interactive frontends to setting up solid backend systems. Still, backend coding is where I really feel at home.</h3>
+<h3 align="center">I’m a full-stack developer from Liverpool, UK. I like working across the stack, from building clean and interactive frontends to setting up solid backend systems.</h3>
 
 - 🔭 I’m currently working on [verbatim](https://www.verbatim.pro/)
 
