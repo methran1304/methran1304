@@ -4,9 +4,9 @@
 
 <h3 align="center">I’m a full-stack developer based in the UK. I like working across the stack, from building clean and interactive frontends to setting up solid backend systems. verbatim is the latest app I built to practice touch typing! </h3>
 
-- 🔭 I’m currently working on [verbatim](https://www.verbatim.pro/)
+- 🔭 I’m currently working on Regex Engine CLI and [verbatim](https://www.verbatim.pro/)
 
-- 🌱 I’m currently learning **flask**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [LINK](LINK)
 
