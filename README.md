@@ -1,21 +1,3 @@
-<h1 align="center">Hi 👋, I'm Methran Gunasekaran</h1>
-<h2 align="center">💻 Full-Stack Engineer | Backend Enthusiast</h2>
-<h2 align="center">🎓 MSc Advanced Computer Science, University of Liverpool</h2>
-
-<h3 align="center">I’m a full-stack developer based in the UK. I like working across the stack, from building clean and interactive frontends to setting up solid backend systems. verbatim is the latest app I built to practice touch typing! </h3>
-
-- 🔭 I’m currently working on Regex Engine CLI and [verbatim](https://www.verbatim.pro/)
-
-- 🌱 I’m currently learning **Rust**
-
-- 👨‍💻 All of my projects are available at [LINK](LINK)
-
-- 📫 How to reach me **methran2003@gmail.com**
-
-- 📄 Know about my experiences [LINK](LINK)
-
-- ⚡ Fun fact **I can type a lot faster than I can text!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/methran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/methran/" height="30" width="40" /></a>
