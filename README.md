@@ -27,9 +27,3 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=methran1304&show_icons=true&locale=en&layout=compact" alt="methran1304" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=methran1304&" alt="methran1304" /></p>
-
-
-
